@@ -25,16 +25,3 @@ https://user-images.githubusercontent.com/88618793/233878410-50f7a040-f6a0-43d0-
 
 ## Compiles and hot-reloads for development <a name = "Compiles-and-hot-reloads-for-development"></a>
 - npm run serve
-
-## Contributors <a name = "Contributors"></a>
-
-<table>
-  <tr>
-    <td align="center">
-    <a href="https://github.com/asmaaadel0" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/88618793?s=400&u=886a14dc5ef5c205a8e51942efe9665ed8fd4717&v=4" width="150px;" alt="Asmaa Adel"/>
-    <br />
-    <sub><b>Asmaa Adel</b></sub></a>
-    
-  </tr>
- </table>
