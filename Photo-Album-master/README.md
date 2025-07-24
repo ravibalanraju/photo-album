@@ -14,8 +14,6 @@
   - you cann't submit the form without description, category, or upload image
   - you can choose existing category or create new one with different name.
 
-## Website link <a name = "link"></a>
-- https://photo-album-one.vercel.app/
 
 ## Screen Video: <a name = "screen-video"></a>
 
